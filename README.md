@@ -134,3 +134,17 @@ npm run dev
 ```
 
 Frontend will be available at: http://localhost:3000
+
+## 🎯 Usage
+
+1. Register a New User
+
+- Navigate to http://localhost:3000
+- Click "Sign up" on the login page
+- Fill in the registration form::
+- - Full Name
+- - Username
+- - Email
+- - Password (minimum 6 characters)
+- Click "Sign Up"
+- You'll be automatically logged in
